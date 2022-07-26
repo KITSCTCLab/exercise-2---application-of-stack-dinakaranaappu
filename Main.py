@@ -5,7 +5,7 @@ class Evaluate:
       size_of_stack: An integer which represents the size of stack.
       stack: A List which acts as a Stack.
   """
-    # Write your code here
+    print(allow)
 
 
   def __init__(self, size):
